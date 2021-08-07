@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/save.png</file>
+        <file>images/KAISTlogo.jpg</file>
+        <file>images/OESLlogo.jpg</file>
+        <file>images/16A11033-7.gif</file>
+        <file>images/16A11033-9.gif</file>
+        <file>images/16A11033-11.gif</file>
+        <file>images/16A11033-13.gif</file>
+        <file>images/16A11033-15.gif</file>
+        <file>images/16A11033-17.gif</file>
+        <file>images/16A11033-109.gif</file>
+        <file>images/16A11039-7.gif</file>
+        <file>images/16A11039-9.gif</file>
+        <file>images/PulseEnergyTable.GIF</file>
+        <file>images/KAFrefSlide.GIF</file>
+        <file>images/Band-pass-filter-range.gif</file>
+        <file>images/BandDividerScenario.GIF</file>
+        <file>images/PulseEnergyTableV2.gif</file>
+        <file>images/BandDividerScenario.gif</file>
+        <file>images/PulseEnergyTableV3.gif</file>
+        <file>images/PulseEnergyTableV4.gif</file>
+    </qresource>
+</RCC>
